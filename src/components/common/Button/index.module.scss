@@ -1,0 +1,39 @@
+.container {
+  width: 130px;
+  max-height: 35px;
+  box-shadow: inset 0 0 10px rgb(0, 246, 255, 0.7);
+
+  &:hover {
+    box-shadow: inset 0 0 15px rgb(0, 246, 255);
+  }
+
+  &.left {
+    transform: skew(20deg);
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  &.right {
+    transform: skew(-20deg);
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+  }
+}
+
+.skewFix {
+  display: inline-block;
+
+  &.left {
+    transform: skew(-20deg);
+  }
+
+  &.right {
+    transform: skew(20deg);
+  }
+}
