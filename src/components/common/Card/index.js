@@ -13,7 +13,7 @@ const Card = ({
 }) => {
   return (
     <Box className={cn(styles.card, { [styles[size]]: size })} {...rest}>
-      <Box className={cn(styles.title, { [styles[titleAlign]]: size })}>
+      <Box className={cn(styles.title, { [styles[titleAlign]]: titleAlign })}>
         {title}
       </Box>
       {children}
