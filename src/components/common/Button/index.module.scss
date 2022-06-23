@@ -9,8 +9,6 @@
 
   &.left {
     transform: skew(20deg);
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;
     color: white;
     font-weight: bold;
     font-size: 16px;
@@ -18,8 +16,6 @@
 
   &.right {
     transform: skew(-20deg);
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;
     color: white;
     font-weight: bold;
     font-size: 16px;

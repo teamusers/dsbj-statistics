@@ -1,0 +1,34 @@
+.card {
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+  &.small {
+    min-height: 215px;
+    background-image: url("../../../assets/images/card-small.png");
+  }
+
+  &.medium {
+    min-height: 450px;
+    background-image: url("../../../assets/images/card-medium.png");
+  }
+
+  &.large {
+    min-height: 470px;
+    background-image: url("../../../assets/images/card-large.png");
+  }
+
+  .title {
+    color: #01abf8;
+    font-size: 26px;
+    font-weight: bold;
+    padding: 12px;
+
+    &.left {
+      text-align: left;
+    }
+
+    &.center {
+      text-align: center;
+    }
+  }
+}
