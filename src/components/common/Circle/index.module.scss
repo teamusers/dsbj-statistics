@@ -2,7 +2,7 @@
   .circle {
     width: 115px;
     height: 115px;
-    background-image: url("../../../assets/images/circle.png");
+    background-image: url("../../../assets/images/circle-top.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     display: flex;
@@ -26,73 +26,5 @@
     font-size: 14px;
     color: #01abf8;
     text-align: center;
-  }
-
-  &.red {
-    .circle {
-      width: 90px;
-      height: 90px;
-      background-image: url("../../../assets/images/circle-red.png");
-
-      .value {
-        font-size: 20px;
-        color: #ff0749;
-      }
-    }
-
-    .label {
-      margin-top: 10px;
-    }
-  }
-
-  &.yellow {
-    .circle {
-      width: 90px;
-      height: 90px;
-      background-image: url("../../../assets/images/circle-yellow.png");
-
-      .value {
-        font-size: 20px;
-        color: #ffe701;
-      }
-    }
-
-    .label {
-      margin-top: 10px;
-    }
-  }
-
-  &.blue {
-    .circle {
-      width: 90px;
-      height: 90px;
-      background-image: url("../../../assets/images/circle-blue.png");
-
-      .value {
-        font-size: 20px;
-        color: #01abf8;
-      }
-    }
-
-    .label {
-      margin-top: 10px;
-    }
-  }
-
-  &.purple {
-    .circle {
-      width: 90px;
-      height: 90px;
-      background-image: url("../../../assets/images/circle-purple.png");
-
-      .value {
-        font-size: 20px;
-        color: #5e6fff;
-      }
-    }
-
-    .label {
-      margin-top: 10px;
-    }
   }
 }

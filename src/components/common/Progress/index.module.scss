@@ -1,5 +1,6 @@
 .progress {
   width: 100%;
+  margin-top: 1rem;
 
   .title {
     font-size: 20px;
@@ -10,7 +11,7 @@
   .progressWrapper {
     display: flex;
     align-items: center;
-    margin-top: 1rem;
+    margin-top: 0.7rem;
 
     .bar {
       flex: 80%;
@@ -23,8 +24,15 @@
     .label {
       flex: 20%;
       font-size: 24px;
-      color: #00b3ff;
       font-weight: bold;
+
+      &.blue {
+        color: #00b3ff;
+      }
+
+      &.red {
+        color: #f1ce6b;
+      }
     }
   }
 }
