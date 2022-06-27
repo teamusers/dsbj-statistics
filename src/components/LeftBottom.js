@@ -161,6 +161,7 @@ const option = {
     {
       name: "二线人均产值",
       type: "line",
+      showSymbol: false,
       areaStyle: {
         color: new graphic.LinearGradient(0, 0, 0, 1, [
           {
@@ -185,6 +186,7 @@ const option = {
     {
       name: "二线人均产值达成率",
       type: "line",
+      showSymbol: false,
       areaStyle: {
         color: new graphic.LinearGradient(0, 0, 0, 1, [
           {
