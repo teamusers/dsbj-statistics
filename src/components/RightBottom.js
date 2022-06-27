@@ -89,7 +89,6 @@ const option = {
     {
       name: "集团",
       type: "line",
-      stack: "Total",
       smooth: true,
       // lineStyle: { color: "#ff0" },
       data: [120, 132, 101, 134, 90, 230],
@@ -97,35 +96,30 @@ const option = {
     {
       name: "维信",
       type: "line",
-      stack: "Total",
       smooth: true,
       data: [220, 182, 191, 234, 290, 330],
     },
     {
       name: "超毅",
       type: "line",
-      stack: "Total",
       smooth: true,
       data: [150, 232, 201, 154, 190, 330],
     },
     {
       name: "LED",
       type: "line",
-      stack: "Total",
       smooth: true,
       data: [320, 332, 301, 334, 390, 330],
     },
     {
       name: "触控",
       type: "line",
-      stack: "Total",
       smooth: true,
       data: [820, 932, 901, 934, 1290, 1330],
     },
     {
       name: "精密",
       type: "line",
-      stack: "Total",
       smooth: true,
       data: [820, 932, 901, 934, 1290, 1330],
     },
