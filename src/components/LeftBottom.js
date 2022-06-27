@@ -106,7 +106,6 @@ const option = {
       position: "left",
       alignTicks: true,
       axisLine: {
-        show: true,
         lineStyle: {
           color: colors[0],
         },
@@ -114,6 +113,7 @@ const option = {
       max: 320,
       min: 0,
       axisLabel: {
+        color: "#fff",
         formatter: (value) => {
           return `${value.toFixed(0)}`;
         },
@@ -144,6 +144,7 @@ const option = {
       max: 120,
       min: 0,
       axisLabel: {
+        color: "#fff",
         formatter: (value) => {
           return `${value.toFixed(0)}%`;
         },
