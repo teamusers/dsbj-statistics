@@ -2,7 +2,7 @@
   "name": "dsbj-statistics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stephen-user.github.io",
+  "homepage": "https://teamusers.github.io",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
