@@ -10,7 +10,7 @@ const NavBar = () => (
     <Box className={styles.left}>
       <Stack className={styles.navLeft} direction="row" spacing={1.5}>
         <Button side="left">首页</Button>
-        <Button side="left">人事</Button>
+        <Button side="left" active={true}>人事</Button>
         <Button side="left">销售</Button>
       </Stack>
     </Box>

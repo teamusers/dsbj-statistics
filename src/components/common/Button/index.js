@@ -4,13 +4,18 @@ import cn from "classnames";
 
 import styles from "./index.module.scss";
 
-const Button = ({ side, children, ...rest }) => {
+const Button = ({ side, active, children, ...rest }) => {
   return (
     <MUIButton
-      className={cn(styles.container, { [styles[side]]: side })}
+      className={cn(styles.container, {
+        [styles[side]]: side,
+        [styles.active]: active,
+      })}
       {...rest}
     >
-      <Box className={cn(styles.skewFix, { [styles[side]]: side })}>{children}</Box>
+      <Box className={cn(styles.skewFix, { [styles[side]]: side })}>
+        {children}
+      </Box>
     </MUIButton>
   );
 };
