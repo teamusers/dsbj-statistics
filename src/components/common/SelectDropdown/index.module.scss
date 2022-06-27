@@ -1,0 +1,43 @@
+.dropdownContainer {
+  padding-right: 14px;
+}
+
+.selectIcon {
+  color: #fff;
+}
+
+.inputRoot {
+  height: 36px;
+  margin: 12px 6px;
+  border: 1.5px solid;
+  border-radius: 16px;
+  &.small {
+    width: 120px;
+    color: #b857f5;
+  }
+  &.medium {
+    width: 200px;
+    color: #fff;
+  }
+  &.large {
+    width: 230px;
+    color: #fff;
+  }
+}
+
+.inputNotchedOutline {
+  border: none;
+}
+
+.menuRoot {
+  color: #0f0;
+}
+
+.menuSelected {
+  background-color: transparent;
+  color: #b857f5;
+}
+
+.graphContainer {
+  padding: 30px;
+}
