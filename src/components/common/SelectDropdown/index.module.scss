@@ -4,6 +4,27 @@
 
 .selectIcon {
   color: #fff;
+  &.menu-0 {
+    color: #3291f8;
+  }
+  &.menu-1 {
+    color: #ffb200;
+  }
+  &.menu-2 {
+    color: #ec0404;
+  }
+  &.menu-3 {
+    color: #f25710;
+  }
+  &.menu-4 {
+    color: #5e6fff;
+  }
+  &.menu-5 {
+    color: #00a2ff;
+  }
+  &.menu-6 {
+    color: #b857f5;
+  }
 }
 
 .inputRoot {
@@ -13,7 +34,27 @@
   border-radius: 16px;
   &.small {
     width: 120px;
-    color: #b857f5;
+    &.menu-0 {
+      color: #3291f8;
+    }
+    &.menu-1 {
+      color: #ffb200;
+    }
+    &.menu-2 {
+      color: #ec0404;
+    }
+    &.menu-3 {
+      color: #f25710;
+    }
+    &.menu-4 {
+      color: #5e6fff;
+    }
+    &.menu-5 {
+      color: #00a2ff;
+    }
+    &.menu-6 {
+      color: #b857f5;
+    }
   }
   &.medium {
     width: 200px;
@@ -33,9 +74,58 @@
   color: #0f0;
 }
 
+// .menuItem {
+//   color: #000;
+// }
+
+.menuItem {
+  &:hover {
+    &.menu-0 {
+      color: #3291f8;
+    }
+    &.menu-1 {
+      color: #ffb200;
+    }
+    &.menu-2 {
+      color: #ec0404;
+    }
+    &.menu-3 {
+      color: #f25710;
+    }
+    &.menu-4 {
+      color: #5e6fff;
+    }
+    &.menu-5 {
+      color: #00a2ff;
+    }
+    &.menu-6 {
+      color: #b857f5;
+    }
+  }
+}
+
 .menuSelected {
-  background-color: transparent;
-  color: #b857f5;
+  &.menu-0 {
+    color: #3291f8;
+  }
+  &.menu-1 {
+    color: #ffb200;
+  }
+  &.menu-2 {
+    color: #ec0404;
+  }
+  &.menu-3 {
+    color: #f25710;
+  }
+  &.menu-4 {
+    color: #5e6fff;
+  }
+  &.menu-5 {
+    color: #00a2ff;
+  }
+  &.menu-6 {
+    color: #b857f5;
+  }
 }
 
 .graphContainer {
