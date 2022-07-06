@@ -1,0 +1,98 @@
+[
+  {
+    "organization": "维信事业部",
+    "dt": "2022-07-01",
+    "emp_subtype": "一线",
+    "budget": "100,248.99",
+    "average_amt_cny": "4254.33",
+    "budget_rate": "2.36"
+  },
+  {
+    "organization": "维信事业部",
+    "dt": "2022-07-01",
+    "emp_subtype": "二线",
+    "budget": "1",
+    "average_amt_cny": "42556.26",
+    "budget_rate": "3.00"
+  },
+  {
+    "organization": "超毅事业部",
+    "dt": "2022-07-01",
+    "emp_subtype": "一线",
+    "budget": "1",
+    "average_amt_cny": "4251.45",
+    "budget_rate": "2.00"
+  },
+  {
+    "organization": "超毅事业部",
+    "dt": "2022-07-01",
+    "emp_subtype": "二线",
+    "budget": "1",
+    "average_amt_cny": "4254.37",
+    "budget_rate": "2.03"
+  },
+  {
+    "organization": "维信事业部",
+    "dt": "2022-07-02",
+    "emp_subtype": "一线",
+    "budget": "2",
+    "average_amt_cny": "4250.95",
+    "budget_rate": "2.59"
+  },
+  {
+    "organization": "维信事业部",
+    "dt": "2022-07-02",
+    "emp_subtype": "二线",
+    "budget": "2",
+    "average_amt_cny": "42578.76",
+    "budget_rate": "3.27"
+  },
+  {
+    "organization": "超毅事业部",
+    "dt": "2022-07-02",
+    "emp_subtype": "一线",
+    "budget": "2",
+    "average_amt_cny": "4256.50",
+    "budget_rate": "3.34"
+  },
+  {
+    "organization": "超毅事业部",
+    "dt": "2022-07-02",
+    "emp_subtype": "二线",
+    "budget": "2",
+    "average_amt_cny": "42585.14",
+    "budget_rate": "3.39"
+  },
+  {
+    "organization": "维信事业部",
+    "dt": "2022-07-03",
+    "emp_subtype": "一线",
+    "budget": "3",
+    "average_amt_cny": "4259.52",
+    "budget_rate": "4.05"
+  },
+  {
+    "organization": "维信事业部",
+    "dt": "2022-07-03",
+    "emp_subtype": "二线",
+    "budget": "3",
+    "average_amt_cny": "42522.61",
+    "budget_rate": "5.10"
+  },
+  {
+    "organization": "超毅事业部",
+    "dt": "2022-07-03",
+    "emp_subtype": "一线",
+    "budget": "3",
+    "average_amt_cny": "4250.12",
+    "budget_rate": "3.35"
+  },
+  {
+    "organization": "超毅事业部",
+    "dt": "2022-07-03",
+    "emp_subtype": "二线",
+    "budget": "3",
+    "average_amt_cny": "42588.60",
+    "budget_rate": "3.39"
+  }
+]

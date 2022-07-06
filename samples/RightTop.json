@@ -1,0 +1,9 @@
+{
+    "title":"实际人均产销",
+    "body":[
+    {"name":"一线人均产值（万元）", "cur_val":31.6000 , "total_value":12.8},
+    {"name":"一线人均销售额", "cur_value":177.8000, "total_value":12.8},
+    {"name":"二线人均产值（万元）", "cur_value":24.3000, "total_value":12.8},
+    {"name":"二线人均销售额", "cur_value":58.8931, "total_value":12.8}
+]
+}

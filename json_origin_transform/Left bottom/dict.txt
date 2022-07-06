@@ -1,0 +1,12 @@
+Source origin are all "type: sales", there are no "type:output"
+-- "type:output" can be assumed as NONE
+-- value will all be zeros
+
+Notes:
+
+GroupBy json on "organization" and "emp_subtype" [origin.json]
+Map sale_cumulative =>  [arr] of value [origin.json]
+Map percentage => [arr] of percentage [origin.json]
+
+"name"[transformed.json] is from "emp_subtype"+"人均销售额"[origin.json]
+target_budget[transformed.json] is from budget[origin.json]

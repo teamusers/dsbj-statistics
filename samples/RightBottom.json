@@ -1,0 +1,29 @@
+// Total number of name: ["集团", "维信", "超毅", "LED", "触控", "精密"]
+
+// For {"name":"", "data": [120, 132, 101, 134, 90, 230]},
+// in future more data will be sent according to the number of months that has lapsed in the current year 
+{
+    "title":"人效趋势图",  
+    "body":[
+    {
+      "business_unit": "集团",
+      "filter": [
+          {"name":"一线人均产值", "value": [120, 132, 101, 134, 90, 230]},
+          {"name":"二线人均产值", "value": [120, 132, 101, 134, 90, 230]},
+          {"name":"一线人均销售额", "value": [120, 132, 101, 134, 90, 230]},
+          {"name":"二线人均销售额", "value": [120, 132, 101, 134, 90, 230]}
+      ]
+    },
+    {      
+      "business_unit": "维信",
+      "filter": [
+          {"name":"一线人均产值", "value":[120, 132, 101, 134, 90, 230]},
+          {"name":"二线人均产值", "value":[120, 132, 101, 134, 90, 230]},
+          {"name":"一线人均销售额", "value":[120, 132, 101, 134, 90, 230]},
+          {"name":"二线人均销售额", "value":[120, 132, 101, 134, 90, 230]}
+      ]
+    }
+    ,...
+    ]
+  }
+

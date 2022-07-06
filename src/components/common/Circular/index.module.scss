@@ -1,0 +1,58 @@
+.container {
+  .circular {
+    min-width: 90px;
+    width: 5vw;
+    min-height: 90px;
+    height: 5vw;
+    background-image: url("../../../assets/images/circle-middle.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .value {
+      font-size: 20px;
+      color: #01abf8;
+      font-weight: bold;
+    }
+
+    .progress {
+      &.red {
+        .value {
+          font-size: 20px;
+          color: #ff0749;
+        }
+      }
+
+      &.yellow {
+        .value {
+          font-size: 20px;
+          color: #ffe701;
+        }
+      }
+
+      &.blue {
+        .value {
+          font-size: 20px;
+          color: #01abf8;
+        }
+      }
+
+      &.purple {
+        .value {
+          font-size: 20px;
+          color: #5e6fff;
+        }
+      }
+    }
+  }
+
+  .label {
+    margin-top: 1rem;
+    font-size: 14px;
+    color: #01abf8;
+    text-align: center;
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "/v1/home/monthly-budget": "monthly-budget",
+  "/v1/home/monthly-achievement-rate": "monthly-achievement-rate",
+  "/v1/home/monthly-cumulative-achievement-rate": "monthly-cumulative-achievement-rate",
+  "/v1/home/monthly-actual-per-capita-production-sales": "monthly-actual-per-capita-production-sales",
+  "/v1/home/yearly-employee-efficiency-trend": "yearly-employee-efficiency-trend"
+}

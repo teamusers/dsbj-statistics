@@ -1,0 +1,10 @@
+Source origin are all "type: sales", there are no "type:output"
+-- "type:output" can be assumed as NONE
+-- value will all be zeros
+
+Notes:
+
+ds = Month, eg. 202201  = month 1
+
+1. Group by organization, emp_subtype , ds
+    average_amt_cny => array of value

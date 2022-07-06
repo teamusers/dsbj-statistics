@@ -1,0 +1,386 @@
+[
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.818025943,
+    "month": "202201"
+  },
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 15235.233752336,
+    "ds": "202201"
+  },
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.509685657125,
+    "ds": "202202"
+  },
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152355.0867085326,
+    "ds": "202202"
+  },
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 1523599.043108271,
+    "ds": "202203"
+  },
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 152353.36028226127,
+    "ds": "202203"
+  },
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152355.7004052273,
+    "ds": "202204"
+  },
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.6015264338,
+    "ds": "202204"
+  },
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152357.0138337394,
+    "ds": "202205"
+  },
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.17707972456,
+    "ds": "202205"
+  },
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152357.68305978423,
+    "ds": "202206"
+  },
+  {
+    "organization": "LED事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.837511932245,
+    "ds": "202206"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.895298404146,
+    "ds": "202201"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152350.88432223847,
+    "ds": "202201"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.39912997207,
+    "ds": "202202"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152353.9711996035,
+    "ds": "202202"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.08650736363,
+    "ds": "202203"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152354.90250962478,
+    "ds": "202203"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152351.5726858513,
+    "ds": "202204"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.502293185815,
+    "ds": "202204"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.06480479938,
+    "ds": "202205"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152353.0732877797,
+    "ds": "202205"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.86641562522,
+    "ds": "202206"
+  },
+  {
+    "organization": "精密制造事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152357.4517643366,
+    "ds": "202206"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.92892700284,
+    "ds": "202201"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152357.7369866319,
+    "ds": "202201"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.85776947232,
+    "ds": "202202"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152357.24230248586,
+    "ds": "202202"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152356.1414786606,
+    "ds": "202203"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 152356.43315976566,
+    "ds": "202203"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152352.3653775936,
+    "ds": "202204"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.5206087281,
+    "ds": "202204"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152355.986560189,
+    "ds": "202205"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 152353.99049215448,
+    "ds": "202205"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.14024679785,
+    "ds": "202206"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152357.66413056,
+    "ds": "202206"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 15235.605784386633,
+    "ds": "202207"
+  },
+  {
+    "organization": "维信事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 152354425802564815,
+    "ds": "202207"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 152353.25396490723,
+    "ds": "202201"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152355.6926472387,
+    "ds": "202201"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 152352.12320640957,
+    "ds": "202202"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152356.422120164,
+    "ds": "202202"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 152351.2479355894,
+    "ds": "202203"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 1523535.7337599732,
+    "ds": "202203"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 152353.73174941755,
+    "ds": "202204"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152351.1212897273,
+    "ds": "202204"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 152358.38596019978,
+    "ds": "202205"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 1523538.949076357,
+    "ds": "202205"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 152353.3023942621,
+    "ds": "202206"
+  },
+  {
+    "organization": "触控显示事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 1523556.9542017593,
+    "ds": "202206"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.43568407497,
+    "ds": "202201"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152354.5382401121,
+    "ds": "202201"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.34480625537,
+    "ds": "202202"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152350.3333028962,
+    "ds": "202202"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.46448171345,
+    "ds": "202203"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152358.8488713409,
+    "ds": "202203"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152355.1082787279,
+    "ds": "202204"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.77526836614,
+    "ds": "202204"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152350.1149279136,
+    "ds": "202205"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.69979191812,
+    "ds": "202205"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235.05011316363,
+    "ds": "202206"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 152357.2547221359,
+    "ds": "202206"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "一线",
+    "average_amt_cny": 15235407124421172,
+    "ds": "202207"
+  },
+  {
+    "organization": "超毅事业部",
+    "emp_subtype": "二线",
+    "average_amt_cny": 15235.137593062083,
+    "ds": "202207"
+  }
+]

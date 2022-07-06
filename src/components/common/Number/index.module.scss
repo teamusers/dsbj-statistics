@@ -1,0 +1,45 @@
+.number {
+  width: 100%;
+  height: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .title {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+  }
+
+  .numberWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.7rem;
+
+    .square {
+      min-width: 50px;
+      width: 15%;
+      min-height: 50px;
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      background-image: url("../../../assets/images/square.png");
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 40px;
+      font-weight: bold;
+      color: white;
+    }
+
+    .dot {
+      width: 7px;
+      height: 7px;
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      background-image: url("../../../assets/images/dot.png");
+      align-self: flex-end;
+    }
+  }
+}
